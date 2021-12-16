@@ -20,10 +20,10 @@ body{
     margin: auto;
 }
 #c1{
-    width: 250px;
+    width: 3000px;
     height: 500px;
     border: green solid;
-    border-radius: 3rem;
+    border-radius: 2rem;
     background-color: darkseagreen;
 }
 @media (max-width: 300px){
@@ -103,7 +103,7 @@ body{
 }
 #obj{
     border: green solid;
-    border-radius: 3rem;
+    border-radius: 2rem;
     background-color: darkseagreen;
     margin: 1rem;
 }
